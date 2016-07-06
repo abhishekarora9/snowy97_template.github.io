@@ -12,5 +12,4 @@ My name is Abhishek Arora. I have the following qualities:
 
 What else do you need?
 
-### my history
 
